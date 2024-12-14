@@ -2,25 +2,28 @@
 
 ### 😎 &nbsp;About Me
 
-🎓 &nbsp;I'm a Software Developer & 💡 like to explore new technologies and develop software solutions.
+🎓 &nbsp;I'm a Software Developer 💡👨‍💻👨‍💻
 <!--🎓 &nbsp;I'm currently studying: Information Technology (software engineer)  at Zetech University, Kenya .\-->
 ✍️ &nbsp;In my free time, I pursue Ethical Hacking and Internet of Things .\
-💬 &nbsp;Feel free to reach out to me. Lets work on some few projects together.
+💬 &nbsp;This GitHub is for my Cybersecuirty and Internet of Things (robotics) Projects.
 
 
 <!--END_SECTION:waka-->
 
-### 💻 🛠 &nbsp;Tech Stack
+### 💻 🛠 &nbsp;These are My Skills In IoT and E.H
 
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
-![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
-![Django](https://img.shields.io/badge/-Django-05122A?style=flat&logo=django&logoColor=092E20)&nbsp;
-![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
-![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) &nbsp; 
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)&nbsp; 
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)&nbsp; 
+![Kali Linux](https://img.shields.io/badge/Kali%20Linux-%233D3D3D.svg?style=for-the-badge&logo=kali&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-%233D3D3D.svg?style=for-the-badge&logo=wireshark&logoColor=white)
+![Nmap](https://img.shields.io/badge/Nmap-%234B0082.svg?style=for-the-badge&logo=nmap&logoColor=white)
+![Metasploit](https://img.shields.io/badge/Metasploit-%233D3D3D.svg?style=for-the-badge&logo=metasploit&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-%23007A5A.svg?style=for-the-badge&logo=arduino&logoColor=white)
+![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-%233D3D3D.svg?style=for-the-badge&logo=raspberry-pi&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-05122A?style=for-the-badge&logo=python)
+![Sensors](https://img.shields.io/badge/Sensors-%231E1E1E.svg?style=for-the-badge&logo=sensor&logoColor=white)
+![ECPN Camera](https://img.shields.io/badge/ECPN%20Camera-%234B0082.svg?style=for-the-badge&logo=webcam&logoColor=white)
+
 
 <br>
 
@@ -45,9 +48,5 @@
 </a>
 
 
-<strong>My Stats</strong>
-[![](https://raw.githubusercontent.com/guyohalake/guyohalake1/master/profile-summary-card-output/dracula/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/guyohalake/guyohalake1/master/profile-summary-card-output/dracula/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/guyohalake/guyohalake1/master/profile-summary-card-output/dracula/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/guyohalake/guyohalake1/master/profile-summary-card-output/dracula/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/guyohalake/guyohalake1/master/profile-summary-card-output/dracula/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
 
