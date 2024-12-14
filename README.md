@@ -1,5 +1,5 @@
-<img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2>Hey there!  I'm Guyo ! </h2>
-
+<img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2>Hey there!  I'm Guyo, a p.E.H </h2>
+<img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='20' align="left"/><h3>a Practicing Ethical Hacker </h3>
 ### 😎 &nbsp;About Me
 
 🎓 &nbsp;I'm a Software Developer 💡👨‍💻👨‍💻
