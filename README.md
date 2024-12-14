@@ -46,6 +46,9 @@
 <a href="https://guyohalake.github.io/GuyoHalake-Blog">
   <img src="https://img.shields.io/badge/Portfolio-333333?style=flat&logo=github&logoColor=white" alt="Portfolio"/>
 </a>
+<a href="https://github.com/guyohalake">
+  <img src="https://img.shields.io/badge/Main-GitHub-333333?style=flat&logo=github&logoColor=white" alt="Main-GitHub"/>
+</a>
 
 
 
